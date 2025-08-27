@@ -7,7 +7,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.golang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png" align="right" height="48" width="48" ></a>
+<a href="https://www.golang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Go_gopher_mascot_bw.png" align="right" height="48" width="48" ></a>
 
 
 <!--   my-ticker -->    
