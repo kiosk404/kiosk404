@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/kiosk404/kiosk404"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/Golang-1.24-FF1493.svg"></a>
     <a href="https://github.com/kiosk404/kiosk404/graphs/contributors"><img src="https://img.shields.io/github/contributors/kiosk404/kiosk404?color=blue"></a>
 </p>
 
@@ -15,19 +15,9 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
+- [https://kiosk007.top](https://kiosk007.top)
 
-<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
-
-
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
 
 
 <!--   my-skils -->
